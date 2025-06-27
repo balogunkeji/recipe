@@ -43,6 +43,11 @@ body{
         padding: 3% 10%;
     }
 }
+h1{
+    font-weight: bold;
+    color: hsl(24, 5%, 18%);
+    font-size: 36px;
+}
 .recipe{
     width: 100%;
     img {
@@ -71,8 +76,9 @@ ul,ol{
     width: 100%;
     padding: 6%;
     background-color: hsl(330, 100%, 98%);
-    h3{
+    h2{
         color: hsl(332, 51%, 32%);
+        font-size: 18px;
     }
 
 }
